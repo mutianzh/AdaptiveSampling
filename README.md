@@ -1,7 +1,7 @@
 
 # AdaptiveSampling
 
-This repo include implementation for the following work on multi-objective optimization. We'll keep working on making the code easier to run.
+This repo include implementation for multiple work on multi-objective optimization. We'll keep working on making the code easier to run.
 
 ### Adaptive sampling  
 A Novel Multi-Objective Optimization Framework for Analog Circuit Customization  
