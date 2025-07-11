@@ -1,7 +1,5 @@
 """
-
-Global sampling to improve regression model accuracy in general
-Gradually focus more in good region
+Implemented by Mutian Zhu
 
 """
 
