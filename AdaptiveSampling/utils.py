@@ -1,4 +1,6 @@
 """
+Implemented by Mutian Zhu
+
 version 2_1:
 Use Gaussian process regression
 normalize x
