@@ -1,3 +1,8 @@
+"""
+Implemented by Zhenqi Gao
+"""
+
+
 from myhelper import *
 
 # For reproducibility, Seed may need to change to obtain better result
