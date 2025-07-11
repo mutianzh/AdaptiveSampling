@@ -1,3 +1,7 @@
+"""
+Implemented by Zhenqi Gao
+"""
+
 from myconst import *
 
 import sys
